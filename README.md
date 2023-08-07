@@ -1,5 +1,7 @@
 ### Hi I'm YanOctavian 👋
 
+Graduated from MIT. Currently engaged in research in the field of blockchain. love freedom.
+
 <!--
 **YanOctavian/YanOctavian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
